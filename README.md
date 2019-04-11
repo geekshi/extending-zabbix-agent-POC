@@ -20,7 +20,7 @@ cd src/aor
 
 mvn install
 
-java -jar aor-0.0.1-SNAPSHOT.jar
+java -jar target/aor-0.0.1-SNAPSHOT.jar
 
 Add UserParameter to zabbix_agentd.conf:
 ```
